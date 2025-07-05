@@ -1,0 +1,2 @@
+#!/bin/bash
+mxdir -m 751 my_dir
